@@ -1,0 +1,97 @@
+.image {
+    background-image: url("https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?cs=srgb&dl=pexels-jaime-reimer-1376930-2662116.jpg&fm=jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    overflow: hidden;
+    background-attachment: fixed;
+}
+
+.container {
+
+    text-align: center;
+
+    margin: 250px;
+
+
+}
+
+.bg {
+
+    color: white;
+    background-color: black;
+    padding: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 26px;
+
+
+
+}
+
+.bg1 {
+
+    color: black;
+    background-color: white;
+    padding: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 26px;
+
+
+
+}
+
+.p {
+    color: white;
+    background-color: black;
+    margin: 0px;
+    padding: 3px 40px;
+    text-align: justify;
+    line-height: 22px;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 6%;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.image1 {
+    background-image: url("https://cf.bstatic.com/xdata/images/hotel/max1024x768/179088279.jpg?k=b6548fe3c118f5f9d58c3ad3aa5dcf39cf3e8fe769752700dd7a0863d5e55367&o=&hp=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: relative;
+    overflow: hidden;
+    background-attachment: fixed;
+}
+
+.image2 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: relative;
+    overflow: hidden;
+    background-image: url("https://wallpapers.com/images/featured/beautiful-view-wfcih60h2h5ploke.jpg");
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    font-size: 34px;
+    font-weight: 100;
+}
+
+.p2 {
+    color: black;
+    background-color: white;
+    margin: 0px;
+    padding: 3px 40px;
+    text-align: justify;
+    line-height: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 6%;
+}
